@@ -1,71 +1,84 @@
-# Hi 👋 I'm Gustavo Matos
+<h1 align="center">Hi 👋 I'm Gustavo Matos</h1>
 
-Full Stack Developer specialized in building real-world systems using
-Java, Spring Boot and Android Native development.
+<p align="center">
+Full Stack Developer | Java & Spring Boot | Android Developer
+</p>
 
-I develop production systems used in administrative and operational environments,
-including offline mobile applications and real-time web platforms.
+<p align="center">
+Building real-world systems, offline mobile apps and real-time platforms.
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- REST APIs
-- WebSocket (Realtime Systems)
+### 🧠 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-orange?style=for-the-badge)
 
-### Mobile
-- Android Native (Java)
-- SQLite
-- Offline-first applications
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frontend
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- Thymeleaf
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
 
-### Database
-- MySQL
-- SQLite
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge)
 
 ---
 
-## 🧩 Featured Projects
+## ⭐ Featured Projects
 
-🔹 **Club Reservation System**  
+🚀 **Club Reservation System**  
 Management platform for shared space reservations.
 
-🔹 **SingSong – Musician Manager**  
-Application for musicians to organize repertoire and live shows.
+🎸 **SingSong – Musician Repertoire Manager**  
+Tool for musicians to organize songs and live performances.
 
-🔹 **Personal Finance Planner (Android)**  
-Offline Android application for financial planning.
+💰 **Personal Finance Planner (Android)**  
+Offline-first Android application for personal financial planning.
 
 ---
 
-## 💡 What I Enjoy Building
+## 📊 GitHub Stats
 
-- Real-time systems
-- Offline mobile applications
-- Management platforms
-- Administrative dashboards
-- Practical solutions for real users
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marvinsistemascv&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinsistemascv&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 What I Like Building
+
+✅ Real-time systems  
+✅ Offline mobile applications  
+✅ Administrative platforms  
+✅ Automation tools  
+✅ Practical solutions for real users  
 
 ---
 
 ## 🎸 About Me
 
-Besides software development, I am also a musician performing live shows,
-which inspired some of my applications focused on productivity and organization.
+Software developer and musician passionate about building tools that
+solve real-world problems and improve daily workflows.
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/marvinsistemascv
-- LinkedIn: (add here later)
+- LinkedIn: *(add soon)*
+
+---
+
+<p align="center">
+⭐ Always building. Always learning.
+</p>
