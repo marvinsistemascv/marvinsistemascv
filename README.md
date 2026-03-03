@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Gustavo Matos</h1>
+<h1 align="center">I'm Gustavo Matos</h1>
 
 <p align="center">
 Full Stack Developer | Java & Spring Boot | Android Developer
